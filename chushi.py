@@ -13,3 +13,6 @@ amen
 d
 
 jia ssh:w
+
+
+zhege bucuo
